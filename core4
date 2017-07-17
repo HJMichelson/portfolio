@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> The Core 4 </title>
+</head>
+
+
+<body>
+  <h1> Function </h1>
+  <h2> Definition </h2>
+  <p> A function is a piece of code that repeats and is changed depending on when it is used. </p>
+  <h2> Examples </h2>
+  		<pre><code> def Funct:
+        	   
+ Funct()
+            </code> </pre>
+        			
+  <h2> Analogy </h2>
+ 	<p1> If you wanted to make 4 dozen cookies, you would make one recipe and repeat it every time you wanted to make a recipe worth of cookies. The recipe is the function at this way. Instead of remaking the recipe each time, you call upon the already made recipe each time.</p1>
+ 
+  <h1> Variable </h1>
+  <h2> Definition </h2>
+  <p> A variable stores information in the form of either a number or a string</p>
+  <h2> Examples </h2>
+  <h2> Analogy </h2>
+	<p1> A variable is like a container. You put something in it and use it, the contents cacn be changed at any time, but you cannot change from a solid to a liquid or vice versa.</p1>  
+  <h1> Conditional </h1>
+  <h2> Definition </h2>
+  <p> </p>
+  <h2> Examples </h2>
+  <h2> Analogy </h2>
+  
+  <h1> Loop </h1>
+  <h2> Definition </h2>
+  <p> </p>
+  <h2> Examples </h2>
+  <h2> Analogy </h2>
+</body>
+</html>
